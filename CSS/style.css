@@ -1,0 +1,55 @@
+body{
+    margin: 100px;
+}
+
+h1{
+    color: blue;
+    font-size: 24px;
+    border-bottom: 1px dashed gray;
+    border-top: 1px dashed gray;
+    background-color: blanchedalmond;
+}
+
+h2:hover{
+    color: burlywood;
+    font-size: 50px;
+}
+
+span{
+    color: red;
+}
+
+.h3style{
+    color:blueviolet;
+}
+
+a:hover{
+    color: blueviolet;
+    font-size:  50px;
+}
+
+a:active{
+    color: red;
+    font-size:  30px;
+}
+
+.style1 {
+    color: red;
+}
+
+.style2 {
+    color: orange;
+}
+
+.style3 {
+    color: green;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:  24px;
+    line-height: 1.5;
+    text-align: left;
+    text-indent: 48px;
+    text-decoration: underline;
+}
